@@ -5,3 +5,4 @@ mypy
 pytest
 setuptools>=41.4.0
 wheel
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
